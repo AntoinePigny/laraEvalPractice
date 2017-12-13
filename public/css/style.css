@@ -1,0 +1,19 @@
+body {
+    background: #a6e1ec;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #204d74;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.table td, .table th{
+    border-top: 1px solid #122b40;
+}
+
+.table thead th{
+    border-bottom: 2px solid #122b40;
+}
